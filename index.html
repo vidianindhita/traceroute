@@ -1,0 +1,207 @@
+<!-- Documentation: https://www.mapbox.com/mapbox-gl-js/style-spec/#sources-geojson -->
+<!-- Mapbox styles: https://github.com/mapbox/mapbox-gl-styles -->
+<!-- Earthquake data: https://earthquake.usgs.gov/ -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <title>Tracking video streaming</title>
+    <!-- <script src='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.js'></script>
+    <script src="data/traceroute.geojson" type="text/javascript"></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.css' rel='stylesheet' /> -->
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.css' rel='stylesheet' />
+    <script src="data/traceroute.geojson" type="text/javascript"></script>
+    <script src="data/route.geojson" type="text/javascript"></script>
+</head>
+
+<body class="container">
+    <div id="map"> </div>
+    <div id="filter-area" class="typewriter-filter">
+        <h2>Where my network goes, while..</h2>
+        <h3>watching videos</h3>
+        <nav id='filter-group' class='filter-group'></nav>
+        <p style="margin-top: 30px;">Click on dots to see the Company's name</p>
+        
+        <div class="direction" style="margin-top: 70px;">
+            <p><b>Direction</b></p>
+            <p>
+                <span id="start">Start</span>
+                <span id="end">Destination</span>
+            </p>
+        </div>
+        <div class="legend" style="margin-top: 30px;">
+            <p><b>Legend</b></p>
+            <p>
+                <span id="cafe-deli">Youtube</span>
+                <span id="quick-serve">Netflix</span>
+                <span id="full-serve">Hulu</span>
+                <span id="coffee">Vimeo</span>
+            </p>
+        </div>
+        
+    </div>
+    <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoidmlkaWFuaW5kaGl0YSIsImEiOiJjaW5lMm81ancweG8wdjBrdms1bmdhbmt2In0.xstDwvipuwYuLv-qBvIcLA';
+
+    var filterGroup = document.getElementById('filter-group');
+
+    var map = new mapboxgl.Map({
+        container: 'map', // you need this
+        style: 'mapbox://styles/mapbox/dark-v9', // you also need this 
+        center: [-98.958601, 40.790496], // [long, lat] Different than leaflet, different than google maps, same as geojson! 
+        zoom: 3,
+        hash: true
+    });
+
+
+    // Source is where the data is coming from, layer is what you're going to do with it.
+    map.on('load', function() {
+
+        map.addSource('route', { // this is just what we're calling the data set
+            type: 'geojson',
+            data: route,
+            lineMetrics: true
+        });
+
+        map.addSource('traceroute', { // this is just what we're calling the data set
+            type: 'geojson',
+            data: traceroute
+        });
+
+
+        traceroute.features.forEach(function(feature) {
+            var circle = feature.properties['Site'];
+            var layerID = 'poi-' + circle;
+            var layer2ID = 'line-' + circle;
+
+            // Add a layer for this symbol type if it hasn't been added already.
+            if (!map.getLayer(layerID)) {
+                map.addLayer({
+                    'id': layerID,
+                    'type': 'circle',
+                    'source': 'traceroute',
+                    // 'layout': {
+                    //     'icon-image': circle + '-15',
+                    //     'icon-allow-overlap': true
+                    // },
+                    'filter': ['==', 'Site', circle],
+                    'paint' : {
+                        'circle-radius' : {
+                            // make the circles larger as the user zoom from 12 to 22
+                            'base' : 5,
+                            'stops' : [[12,5], [22,200]]
+                        },
+                        'circle-color' : {
+                        'property' : 'Site',
+                        'type' : 'categorical',
+                            'stops' : [
+                            ['Youtube', '#cc0000'],
+                            ['Netflix', '#e8e8e8'],
+                            ['Hulu', '#47b215'],
+                            ['Vimeo', '#1dd8f4']
+                            ]
+                        }
+                    },
+                    
+                });
+
+                map.addLayer({
+                    'type': 'line',
+                    'source': 'route',
+                    'id': layer2ID,
+                    'filter': ['==', 'Site', circle],
+                    'paint': {
+                        'line-color': {
+                            'property': 'Site',
+                            'type': 'categorical',
+                            'stops' : [
+                            ['Youtube', '#cc0000'],
+                            ['Netflix', '#e8e8e8'],
+                            ['Hulu', '#47b215'],
+                            ['Vimeo', '#1dd8f4']
+                            ]
+                        },
+                        'line-width': 2,
+                        // 'line-gradient' must be specified using an expression
+                        // with the special 'line-progress' property
+                        'line-gradient': [
+                            'interpolate',
+                            ['linear'],
+                            ['line-progress'],
+                            0, "white",
+                            0.5, "yellow", 
+                            1, "red"
+                        ]
+                    },
+                    'layout': {
+                        'line-cap': 'round',
+                        'line-join': 'round'
+                    }
+                });
+
+                // When a click event occurs near a place, open a popup at the location of
+                // the feature, with HTML description from its properties
+                map.on('click', function(e) {
+                  var features = map.queryRenderedFeatures(e.point, { layers: [layerID] });
+
+                  // if the features have no info, return nothing
+                  if (!features.length) {
+                    return;
+                  }
+
+                  var feature = features[0];
+
+                  // Populate the popup and set its coordinates
+                  // based on the feature found
+                  var popup = new mapboxgl.Popup()
+                  .setLngLat(feature.geometry.coordinates)
+                  .setHTML('<div id=\'popup\' class=\'popup\' style=\'z-index: 10; \'>' +
+                  '<ul class=\'list-group\'>' +
+                  '<li class=\'list-group-item\'>' + feature.properties['Company'] + ' </li></ul></div>')
+                  .addTo(map);
+                });
+
+                // Use the same approach as above to indicate that the symbols are clickable
+                // by changing the cursor style to 'pointer'
+                map.on('mousemove', function(e) {
+                  var features = map.queryRenderedFeatures(e.point, { layers: [layerID] });
+                  map.getCanvas().style.cursor = features.length ? 'pointer' : '';
+                });
+
+                // Add checkbox and label elements for the layer.
+                var input = document.createElement('input');
+                input.type = 'checkbox';
+                input.id = layerID;
+                input.checked = true;
+                filterGroup.appendChild(input);
+
+                var label = document.createElement('label');
+                label.setAttribute('for', layerID);
+                label.textContent = circle;
+                filterGroup.appendChild(label);
+
+                // When the checkbox changes, update the visibility of the layer.
+                input.addEventListener('change', function(e) {
+                    map.setLayoutProperty(layerID, 'visibility',
+                        e.target.checked ? 'visible' : 'none');
+                    map.setLayoutProperty(layer2ID, 'visibility',
+                        e.target.checked ? 'visible' : 'none');
+                });
+            }
+        });
+    });
+
+    // Add zoom and rotation controls to the map.
+    map.addControl(new mapboxgl.NavigationControl({
+        position: 'top-left'
+    }));
+
+    </script>
+</body>
+
+</html>
