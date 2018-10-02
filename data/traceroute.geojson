@@ -1428,6 +1428,2568 @@ var traceroute = {
     "Type":"",
     "Flag":"Time out"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.995277,40.728331 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"Cafe",
+    "IP":"10.176.98.1",
+    "Hostname":"assc-ultrafw-vlan2598.dc10.neustar.com",
+    "City":"",
+    "Region":"",
+    "Country":"",
+    "Company":"Private",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.995277,40.728331 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"Cafe",
+    "IP":"10.176.2.3",
+    "Hostname":"ashlfnsw02-vlan102.dc10.neustar.com",
+    "City":"",
+    "Region":"",
+    "Country":"",
+    "Company":"Private",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"Cafe",
+    "IP":"156.154.196.2",
+    "Hostname":"ashihnrtr01-vlan502.dc10.neustar.com",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"NeuStar, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.7503,42.8854 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"Cafe",
+    "IP":"173.205.39.229",
+    "Hostname":"et-0-0-43-3.cr2-was1.ip4.gtt.net",
+    "City":"Buffalo",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"Hibernia Networks (Netherlands) BV",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2439,53.3472 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"Cafe",
+    "IP":"89.149.139.34",
+    "Hostname":"et-0-0-69.cr3-was1.ip4.gtt.net",
+    "City":"",
+    "Region":"",
+    "Country":"IE",
+    "Company":"Hibernia Networks (Netherlands) BV",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.4910,51.2993 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"Cafe",
+    "IP":"69.174.23.134",
+    "Hostname":"as15169.cr3-was1.ip4.gtt.net",
+    "City":"",
+    "Region":"",
+    "Country":"DE",
+    "Company":"Hibernia Networks (Netherlands) BV",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"Cafe",
+    "IP":"108.170.246.2",
+    "Hostname":"108.170.246.2",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Google LLC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"Cafe",
+    "IP":"72.14.236.229",
+    "Hostname":"72.14.236.229",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Google LLC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"Cafe",
+    "IP":"108.177.3.52",
+    "Hostname":"108.177.3.52",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Google LLC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"Cafe",
+    "IP":"209.85.254.128",
+    "Hostname":"209.85.254.128",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Google LLC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"Cafe",
+    "IP":"108.170.248.1",
+    "Hostname":"108.170.248.1",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Google LLC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"Cafe",
+    "IP":"108.170.237.205",
+    "Hostname":"108.170.237.205",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Google LLC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"Cafe",
+    "IP":"172.217.6.206",
+    "Hostname":"lga25s54-in-f14.1e100.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Google LLC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.995277,40.728331 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"Cafe",
+    "IP":"10.176.98.1",
+    "Hostname":"assc-ultrafw-vlan2598.dc10.neustar.com",
+    "City":"",
+    "Region":"",
+    "Country":"",
+    "Company":"Private",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.995277,40.728331 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"Cafe",
+    "IP":"10.176.2.3",
+    "Hostname":"ashlfnsw02-vlan102.dc10.neustar.com",
+    "City":"",
+    "Region":"",
+    "Country":"",
+    "Company":"Private",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"Cafe",
+    "IP":"156.154.196.2",
+    "Hostname":"ashihnrtr01-vlan502.dc10.neustar.com",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"NeuStar, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.7503,42.8854 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"Cafe",
+    "IP":"173.205.39.229",
+    "Hostname":"et-0-0-43-3.cr2-was1.ip4.gtt.net",
+    "City":"Buffalo",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"Hibernia Networks (Netherlands) BV",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7224,40.7386 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"Cafe",
+    "IP":"173.205.42.6",
+    "Hostname":"ip4.gtt.net",
+    "City":"Bellerose",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"Hibernia Networks (Netherlands) BV",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4728,39.0481 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"Cafe",
+    "IP":"54.239.108.76",
+    "Hostname":"54.239.108.76",
+    "City":"Ashburn",
+    "Region":"Virginia",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4728,39.0481 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"Cafe",
+    "IP":"54.239.110.150",
+    "Hostname":"54.239.110.150",
+    "City":"Ashburn",
+    "Region":"Virginia",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4728,39.0481 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"Cafe",
+    "IP":"54.239.110.187",
+    "Hostname":"54.239.110.187",
+    "City":"Ashburn",
+    "Region":"Virginia",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3420,47.6344 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"Cafe",
+    "IP":"52.93.26.36",
+    "Hostname":"52.93.26.36",
+    "City":"Seattle",
+    "Region":"Washington",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3420,47.6344 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"Cafe",
+    "IP":"52.93.24.10",
+    "Hostname":"52.93.24.10",
+    "City":"Seattle",
+    "Region":"Washington",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4728,39.0481 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"Cafe",
+    "IP":"205.251.244.85",
+    "Hostname":"205.251.244.85",
+    "City":"Ashburn",
+    "Region":"Virginia",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":"Timeout"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.995277,40.728331 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"Cafe",
+    "IP":"10.176.98.1",
+    "Hostname":"assc-ultrafw-vlan2598.dc10.neustar.com",
+    "City":"",
+    "Region":"",
+    "Country":"",
+    "Company":"Private",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.995277,40.728331 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"Cafe",
+    "IP":"10.176.2.3",
+    "Hostname":"ashlfnsw02-vlan102.dc10.neustar.com",
+    "City":"",
+    "Region":"",
+    "Country":"",
+    "Company":"Private",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"Cafe",
+    "IP":"156.154.196.2",
+    "Hostname":"ashihnrtr01-vlan502.dc10.neustar.com",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"NeuStar, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.7503,42.8854 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"Cafe",
+    "IP":"173.205.39.229",
+    "Hostname":"et-0-0-43-3.cr2-was1.ip4.gtt.net",
+    "City":"Buffalo",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"Hibernia Networks (Netherlands) BV",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2439,53.3472 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"Cafe",
+    "IP":"89.149.139.30",
+    "Hostname":"et-0-0-68.cr3-was1.ip4.gtt.net",
+    "City":"",
+    "Region":"",
+    "Country":"IE",
+    "Company":"Hibernia Networks (Netherlands) BV",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"Cafe",
+    "IP":"173.205.55.118",
+    "Hostname":"as2828.was14.ip4.gtt.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Hibernia Networks (Netherlands) BV",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"Cafe",
+    "IP":"207.88.14.190",
+    "Hostname":"207.88.14.190.ptr.us.xo.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"MCI Communications Services, Inc. d/b/a Verizon Business",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"Cafe",
+    "IP":"207.88.12.215",
+    "Hostname":"207.88.12.215.ptr.us.xo.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"MCI Communications Services, Inc. d/b/a Verizon Business",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"Cafe",
+    "IP":"207.88.12.216",
+    "Hostname":"207.88.12.216.ptr.us.xo.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"MCI Communications Services, Inc. d/b/a Verizon Business",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"Cafe",
+    "IP":"207.88.12.208",
+    "Hostname":"207.88.12.208.ptr.us.xo.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"MCI Communications Services, Inc. d/b/a Verizon Business",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"Cafe",
+    "IP":"207.88.12.181",
+    "Hostname":"te0-11-4-0.rar3.sanjose-ca.us.xo.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"MCI Communications Services, Inc. d/b/a Verizon Business",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"Cafe",
+    "IP":"207.88.13.11",
+    "Hostname":"207.88.13.11.ptr.us.xo.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"MCI Communications Services, Inc. d/b/a Verizon Business",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":"Timeout"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.995277,40.728331 ]
+    },
+    "properties": {
+    "Site":"Vimeo",
+    "Access Location":"Cafe",
+    "IP":"10.176.98.1",
+    "Hostname":"assc-ultrafw-vlan2598.dc10.neustar.com",
+    "City":"",
+    "Region":"",
+    "Country":"",
+    "Company":"Private",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.995277,40.728331 ]
+    },
+    "properties": {
+    "Site":"Vimeo",
+    "Access Location":"Cafe",
+    "IP":"10.176.2.3",
+    "Hostname":"ashlfnsw02-vlan102.dc10.neustar.com",
+    "City":"",
+    "Region":"",
+    "Country":"",
+    "Company":"Private",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Vimeo",
+    "Access Location":"Cafe",
+    "IP":"156.154.196.2",
+    "Hostname":"ashihnrtr01-vlan502.dc10.neustar.com",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"NeuStar, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.7503,42.8854 ]
+    },
+    "properties": {
+    "Site":"Vimeo",
+    "Access Location":"Cafe",
+    "IP":"173.205.39.229",
+    "Hostname":"et-0-0-43-3.cr2-was1.ip4.gtt.net",
+    "City":"Buffalo",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"Hibernia Networks (Netherlands) BV",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Vimeo",
+    "Access Location":"Cafe",
+    "IP":"173.205.53.254",
+    "Hostname":"as3356.was10.ip4.gtt.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Hibernia Networks (Netherlands) BV",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.993554,40.729444 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"10.17.0.2",
+    "Hostname":"",
+    "City":"",
+    "Region":"",
+    "Country":"",
+    "Company":"Private",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"128.122.1.36",
+    "Hostname":"NYUGWA-NEW-VL902.NET.NYU.EDU",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"New York University",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"192.168.184.228",
+    "Hostname":"",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Private",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"128.122.254.114",
+    "Hostname":"NYUGWA-OUTSIDE-NGFW-VL3080.NET.NYU.EDU",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"New York University",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"192.168.184.221",
+    "Hostname":"",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Private",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"192.76.177.202",
+    "Hostname":"NYUGWA-VL1001.NET.NYU.EDU",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"New York University",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"128.122.254.111",
+    "Hostname":"DMZGWB-PTP-NYUGWA-VL3082.NET.NYU.EDU",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"New York University",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"128.122.254.70",
+    "Hostname":"EXTGWB-PTP-DMZGWB.NET.NYU.EDU",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"New York University",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"64.86.62.13",
+    "Hostname":"ix-xe-7-3-2-0.tcore2.nw8-new-york.as6453.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"TATA COMMUNICATIONS (AMERICA) INC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0662,40.7518 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"209.58.75.217",
+    "Hostname":"if-ae-0-2.tcore1.nw8-new-york.as6453.net",
+    "City":"Jersey City",
+    "Region":"New Jersey",
+    "Country":"US",
+    "Company":"TATA COMMUNICATIONS (AMERICA) INC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"216.6.90.72",
+    "Hostname":"if-ae-3-2.tcore1.n0v-new-york.as6453.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"TATA COMMUNICATIONS (AMERICA) INC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"63.243.128.141",
+    "Hostname":"if-ae-7-2.tcore1.nto-new-york.as6453.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"TATA COMMUNICATIONS (AMERICA) INC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"63.243.128.25",
+    "Hostname":"if-ae-7-2.tcore1.nto-new-york.as6453.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"TATA COMMUNICATIONS (AMERICA) INC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"63.243.128.141",
+    "Hostname":"if-ae-7-2.tcore1.nto-new-york.as6453.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"TATA COMMUNICATIONS (AMERICA) INC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"63.243.128.122",
+    "Hostname":"if-ae-9-2.tcore1.n75-new-york.as6453.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"TATA COMMUNICATIONS (AMERICA) INC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"72.14.195.232",
+    "Hostname":"72.14.195.232",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Google LLC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"108.170.248.97",
+    "Hostname":"108.170.248.97",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Google LLC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"108.170.248.33",
+    "Hostname":"108.170.248.33",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Google LLC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"108.170.248.97",
+    "Hostname":"108.170.248.97",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Google LLC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9850,37.3501 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"216.239.42.167",
+    "Hostname":"216.239.42.167",
+    "City":"Santa Clara",
+    "Region":"California",
+    "Country":"US",
+    "Company":"Google LLC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Youtube",
+    "Access Location":"ITP",
+    "IP":"172.217.10.78",
+    "Hostname":"lga34s14-in-f14.1e100.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Google LLC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.993554,40.729444 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"10.17.0.2",
+    "Hostname":"",
+    "City":"",
+    "Region":"",
+    "Country":"",
+    "Company":"Private",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"128.122.1.4",
+    "Hostname":"NYUGWA-NEW-VL902.NET.NYU.EDU",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"New York University",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"192.168.184.228",
+    "Hostname":"",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Private",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"128.122.254.114",
+    "Hostname":"NYUGWA-OUTSIDE-NGFW-VL3080.NET.NYU.EDU",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"New York University",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"192.168.184.221",
+    "Hostname":"",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Private",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"192.76.177.202",
+    "Hostname":"NYUGWA-VL1001.NET.NYU.EDU",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"New York University",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"128.122.254.109",
+    "Hostname":"DMZGWA-PTP-NYUGWA-VL3081.NET.NYU.EDU",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"New York University",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"128.122.254.64",
+    "Hostname":"EXTGWA-PTP-DMZGWA.NET.NYU.EDU",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"New York University",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"199.109.5.5",
+    "Hostname":"199.109.5.5",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"NYSERNet",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"199.109.5.2",
+    "Hostname":"I2-NEWY-nyc-9208.nysernet.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"NYSERNet",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"162.252.70.138",
+    "Hostname":"ae-3.4079.rtsw.wash.net.internet2.edu",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Internet2",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"162.252.70.137",
+    "Hostname":"ae-1.4079.rtsw.ashb.net.internet2.edu",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Internet2",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"162.252.70.75",
+    "Hostname":"ae-2.4079.rtsw2.ashb.net.internet2.edu",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Internet2",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"64.57.30.3",
+    "Hostname":"64.57.30.3",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Internet2",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"64.57.30.39",
+    "Hostname":"64.57.30.39",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Internet2",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"64.57.30.3",
+    "Hostname":"64.57.30.3",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Internet2",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4728,39.0481 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"54.239.108.176",
+    "Hostname":"54.239.108.176",
+    "City":"Ashburn",
+    "Region":"Virginia",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4728,39.0481 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"54.239.108.210",
+    "Hostname":"54.239.108.210",
+    "City":"Ashburn",
+    "Region":"Virginia",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4728,39.0481 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"54.239.110.178",
+    "Hostname":"54.239.110.178",
+    "City":"Ashburn",
+    "Region":"Virginia",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4728,39.0481 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"54.239.110.170",
+    "Hostname":"54.239.110.170",
+    "City":"Ashburn",
+    "Region":"Virginia",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4728,39.0481 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"54.239.110.132",
+    "Hostname":"54.239.110.132",
+    "City":"Ashburn",
+    "Region":"Virginia",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4728,39.0481 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"54.239.110.133",
+    "Hostname":"54.239.110.133",
+    "City":"Ashburn",
+    "Region":"Virginia",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4728,39.0481 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"54.239.110.173",
+    "Hostname":"54.239.110.173",
+    "City":"Ashburn",
+    "Region":"Virginia",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4728,39.0481 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"54.239.110.163",
+    "Hostname":"54.239.110.163",
+    "City":"Ashburn",
+    "Region":"Virginia",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3420,47.6344 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"52.93.26.52",
+    "Hostname":"52.93.26.52",
+    "City":"Seattle",
+    "Region":"Washington",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4728,39.0481 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"54.239.109.13",
+    "Hostname":"54.239.109.13",
+    "City":"Ashburn",
+    "Region":"Virginia",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3420,47.6344 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"52.93.26.50",
+    "Hostname":"52.93.26.50",
+    "City":"Seattle",
+    "Region":"Washington",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3420,47.6344 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"52.93.24.92",
+    "Hostname":"52.93.24.92",
+    "City":"Seattle",
+    "Region":"Washington",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3420,47.6344 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"52.93.27.225",
+    "Hostname":"52.93.27.225",
+    "City":"Seattle",
+    "Region":"Washington",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3420,47.6344 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"52.93.24.56",
+    "Hostname":"52.93.24.56",
+    "City":"Seattle",
+    "Region":"Washington",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3420,47.6344 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"52.93.70.27",
+    "Hostname":"52.93.70.27",
+    "City":"Seattle",
+    "Region":"Washington",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4728,39.0481 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"72.21.220.47",
+    "Hostname":"72.21.220.47",
+    "City":"Ashburn",
+    "Region":"Virginia",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3420,47.6344 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"52.93.24.63",
+    "Hostname":"52.93.24.63",
+    "City":"Seattle",
+    "Region":"Washington",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4728,39.0481 ]
+    },
+    "properties": {
+    "Site":"Netflix",
+    "Access Location":"ITP",
+    "IP":"35.169.83.64",
+    "Hostname":"ec2-35-169-83-64.compute-1.amazonaws.com",
+    "City":"Ashburn",
+    "Region":"Virginia",
+    "Country":"US",
+    "Company":"Amazon.com, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":"Timeout"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.993554,40.729444 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"ITP",
+    "IP":"10.17.0.2",
+    "Hostname":"",
+    "City":"",
+    "Region":"",
+    "Country":"",
+    "Company":"Private",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"ITP",
+    "IP":"128.122.1.36",
+    "Hostname":"NYUGWA-NEW-VL902.NET.NYU.EDU",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"New York University",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"ITP",
+    "IP":"192.168.184.228",
+    "Hostname":"",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Private",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"ITP",
+    "IP":"128.122.254.114",
+    "Hostname":"NYUGWA-OUTSIDE-NGFW-VL3080.NET.NYU.EDU",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"New York University",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"ITP",
+    "IP":"192.168.184.221",
+    "Hostname":"",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Private",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"ITP",
+    "IP":"192.76.177.202",
+    "Hostname":"NYUGWA-VL1001.NET.NYU.EDU",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"New York University",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"ITP",
+    "IP":"128.122.254.111",
+    "Hostname":"DMZGWB-PTP-NYUGWA-VL3082.NET.NYU.EDU",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"New York University",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"ITP",
+    "IP":"128.122.254.70",
+    "Hostname":"EXTGWB-PTP-DMZGWB.NET.NYU.EDU",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"New York University",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"ITP",
+    "IP":"64.86.62.13",
+    "Hostname":"ix-xe-7-3-2-0.tcore2.nw8-new-york.as6453.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"TATA COMMUNICATIONS (AMERICA) INC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0662,40.7518 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"ITP",
+    "IP":"209.58.75.217",
+    "Hostname":"if-ae-0-2.tcore1.nw8-new-york.as6453.net",
+    "City":"Jersey City",
+    "Region":"New Jersey",
+    "Country":"US",
+    "Company":"TATA COMMUNICATIONS (AMERICA) INC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"ITP",
+    "IP":"216.6.90.72",
+    "Hostname":"if-ae-3-2.tcore1.n0v-new-york.as6453.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"TATA COMMUNICATIONS (AMERICA) INC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"ITP",
+    "IP":"63.243.128.141",
+    "Hostname":"if-ae-7-2.tcore1.nto-new-york.as6453.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"TATA COMMUNICATIONS (AMERICA) INC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"ITP",
+    "IP":"63.243.128.25",
+    "Hostname":"if-ae-7-2.tcore1.nto-new-york.as6453.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"TATA COMMUNICATIONS (AMERICA) INC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"ITP",
+    "IP":"63.243.128.122",
+    "Hostname":"if-ae-9-2.tcore1.n75-new-york.as6453.net",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"TATA COMMUNICATIONS (AMERICA) INC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9510,39.6172 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"ITP",
+    "IP":"129.250.9.113",
+    "Hostname":"ae-8.a01.nycmny01.us.bb.gin.ntt.net",
+    "City":"Greenwood Village",
+    "Region":"Colorado",
+    "Country":"US",
+    "Company":"NTT America, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Hulu",
+    "Access Location":"ITP",
+    "IP":"23.206.165.192",
+    "Hostname":"a23-206-165-192.deploy.static.akamaitechnologies.com",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"NTT America, Inc.",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":"Timeout"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.993554,40.729444 ]
+    },
+    "properties": {
+    "Site":"Vimeo",
+    "Access Location":"ITP",
+    "IP":"10.17.0.2",
+    "Hostname":"",
+    "City":"",
+    "Region":"",
+    "Country":"",
+    "Company":"Private",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Vimeo",
+    "Access Location":"ITP",
+    "IP":"128.122.1.36",
+    "Hostname":"NYUGWA-NEW-VL902.NET.NYU.EDU",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"New York University",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Vimeo",
+    "Access Location":"ITP",
+    "IP":"192.168.184.228",
+    "Hostname":"",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Private",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Vimeo",
+    "Access Location":"ITP",
+    "IP":"128.122.254.114",
+    "Hostname":"NYUGWA-OUTSIDE-NGFW-VL3080.NET.NYU.EDU",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"New York University",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Vimeo",
+    "Access Location":"ITP",
+    "IP":"192.168.184.221",
+    "Hostname":"",
+    "City":"",
+    "Region":"",
+    "Country":"US",
+    "Company":"Private",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Vimeo",
+    "Access Location":"ITP",
+    "IP":"192.76.177.202",
+    "Hostname":"NYUGWA-VL1001.NET.NYU.EDU",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"New York University",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Vimeo",
+    "Access Location":"ITP",
+    "IP":"128.122.254.111",
+    "Hostname":"DMZGWB-PTP-NYUGWA-VL3082.NET.NYU.EDU",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"New York University",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7317 ]
+    },
+    "properties": {
+    "Site":"Vimeo",
+    "Access Location":"ITP",
+    "IP":"128.122.254.74",
+    "Hostname":"EXTGWC-PTP-DMZGWB.NET.NYU.EDU",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"New York University",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9512,40.7805 ]
+    },
+    "properties": {
+    "Site":"Vimeo",
+    "Access Location":"ITP",
+    "IP":"4.28.130.117",
+    "Hostname":"6-1-30.ear3.NewYork1.Level3.net",
+    "City":"New York",
+    "Region":"New York",
+    "Country":"US",
+    "Company":"Level 3 Parent, LLC",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8220,37.7510 ]
+    },
+    "properties": {
+    "Site":"Vimeo",
+    "Access Location":"ITP",
+    "IP":"151.101.64.217",
+    "Hostname":"151.101.64.217",
+    "City":"",
+    "Region":"",
+    "Country":"",
+    "Company":"Fastly",
+    "Domain":"",
+    "Route":"",
+    "Type":"",
+    "Flag":"Timeout"
+    }
   }
 ]
 }

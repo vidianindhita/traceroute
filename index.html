@@ -17,6 +17,8 @@
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.css' rel='stylesheet' />
     <script src="data/traceroute.geojson" type="text/javascript"></script>
     <script src="data/route.geojson" type="text/javascript"></script>
+    <script src="data/routecafe.geojson" type="text/javascript"></script>
+    <script src="data/routeitp.geojson" type="text/javascript"></script>
 </head>
 
 <body class="container">
@@ -31,7 +33,9 @@
             <p><b>Direction</b></p>
             <p>
                 <span id="start">Start</span>
-                <span id="end">Destination</span>
+                <span id="end">Destination (Home)</span>
+                <span id="end-cafe">Destination (Cafe)</span>
+                <span id="end-itp">Destination (ITP)</span>
             </p>
         </div>
         <div class="legend" style="margin-top: 30px;">
@@ -62,25 +66,146 @@
     // Source is where the data is coming from, layer is what you're going to do with it.
     map.on('load', function() {
 
-        map.addSource('route', { // this is just what we're calling the data set
-            type: 'geojson',
-            data: route,
-            lineMetrics: true
-        });
 
         map.addSource('traceroute', { // this is just what we're calling the data set
             type: 'geojson',
             data: traceroute
         });
 
+        // HOME
+        map.addSource('route', { // this is just what we're calling the data set
+            type: 'geojson',
+            data: route,
+            lineMetrics: true
+        });
+
+        // CAFE
+        map.addSource('routecafe', { // this is just what we're calling the data set
+            type: 'geojson',
+            data: routecafe,
+            lineMetrics: true
+        });
+
+        // ITP
+        map.addSource('routeitp', { // this is just what we're calling the data set
+            type: 'geojson',
+            data: routeitp,
+            lineMetrics: true
+        });
 
         traceroute.features.forEach(function(feature) {
             var circle = feature.properties['Site'];
             var layerID = 'poi-' + circle;
             var layer2ID = 'line-' + circle;
+            var layer3ID = 'line2-' + circle;
+            var layer4ID = 'line3-' + circle;
+
 
             // Add a layer for this symbol type if it hasn't been added already.
             if (!map.getLayer(layerID)) {
+
+                map.addLayer({
+                    'type': 'line',
+                    'source': 'route',
+                    'id': layer2ID,
+                    'filter': ['==', 'Site', circle],
+                    'paint': {
+                        'line-color': {
+                            'property': 'Site',
+                            'type': 'categorical',
+                            'stops' : [
+                            ['Youtube', '#cc0000'],
+                            ['Netflix', '#e8e8e8'],
+                            ['Hulu', '#47b215'],
+                            ['Vimeo', '#1dd8f4']
+                            ]
+                        },
+                        'line-width': 4,
+                        // 'line-gradient' must be specified using an expression
+                        // with the special 'line-progress' property
+                        'line-gradient': [
+                            'interpolate',
+                            ['linear'],
+                            ['line-progress'],
+                            0, "white",
+                            0.5, "red", 
+                            1, "#840000"
+                        ]
+                    },
+                    'layout': {
+                        'line-cap': 'round',
+                        'line-join': 'round'
+                    }
+                });
+
+                map.addLayer({
+                    'type': 'line',
+                    'source': 'routecafe',
+                    'id': layer3ID,
+                    'filter': ['==', 'Site', circle],
+                    'paint': {
+                        'line-color': {
+                            'property': 'Site',
+                            'type': 'categorical',
+                            'stops' : [
+                            ['Youtube', '#cc0000'],
+                            ['Netflix', '#e8e8e8'],
+                            ['Hulu', '#47b215'],
+                            ['Vimeo', '#1dd8f4']
+                            ]
+                        },
+                        'line-width': 3,
+                        // 'line-gradient' must be specified using an expression
+                        // with the special 'line-progress' property
+                        'line-gradient': [
+                            'interpolate',
+                            ['linear'],
+                            ['line-progress'],
+                            0, "white",
+                            0.5, "blue", 
+                            1, "#000972"
+                        ]
+                    },
+                    'layout': {
+                        'line-cap': 'round',
+                        'line-join': 'round'
+                    }
+                });
+
+                map.addLayer({
+                    'type': 'line',
+                    'source': 'routeitp',
+                    'id': layer4ID,
+                    'filter': ['==', 'Site', circle],
+                    'paint': {
+                        'line-color': {
+                            'property': 'Site',
+                            'type': 'categorical',
+                            'stops' : [
+                            ['Youtube', '#cc0000'],
+                            ['Netflix', '#e8e8e8'],
+                            ['Hulu', '#47b215'],
+                            ['Vimeo', '#1dd8f4']
+                            ]
+                        },
+                        'line-width': 2,
+                        // 'line-gradient' must be specified using an expression
+                        // with the special 'line-progress' property
+                        'line-gradient': [
+                            'interpolate',
+                            ['linear'],
+                            ['line-progress'],
+                            0, "white",
+                            0.5, "#19ff00", 
+                            1, "#006d09"
+                        ]
+                    },
+                    'layout': {
+                        'line-cap': 'round',
+                        'line-join': 'round'
+                    }
+                });
+
                 map.addLayer({
                     'id': layerID,
                     'type': 'circle',
@@ -108,40 +233,6 @@
                         }
                     },
                     
-                });
-
-                map.addLayer({
-                    'type': 'line',
-                    'source': 'route',
-                    'id': layer2ID,
-                    'filter': ['==', 'Site', circle],
-                    'paint': {
-                        'line-color': {
-                            'property': 'Site',
-                            'type': 'categorical',
-                            'stops' : [
-                            ['Youtube', '#cc0000'],
-                            ['Netflix', '#e8e8e8'],
-                            ['Hulu', '#47b215'],
-                            ['Vimeo', '#1dd8f4']
-                            ]
-                        },
-                        'line-width': 2,
-                        // 'line-gradient' must be specified using an expression
-                        // with the special 'line-progress' property
-                        'line-gradient': [
-                            'interpolate',
-                            ['linear'],
-                            ['line-progress'],
-                            0, "white",
-                            0.5, "yellow", 
-                            1, "red"
-                        ]
-                    },
-                    'layout': {
-                        'line-cap': 'round',
-                        'line-join': 'round'
-                    }
                 });
 
                 // When a click event occurs near a place, open a popup at the location of
@@ -190,6 +281,10 @@
                     map.setLayoutProperty(layerID, 'visibility',
                         e.target.checked ? 'visible' : 'none');
                     map.setLayoutProperty(layer2ID, 'visibility',
+                        e.target.checked ? 'visible' : 'none');
+                    map.setLayoutProperty(layer3ID, 'visibility',
+                        e.target.checked ? 'visible' : 'none');
+                    map.setLayoutProperty(layer4ID, 'visibility',
                         e.target.checked ? 'visible' : 'none');
                 });
             }

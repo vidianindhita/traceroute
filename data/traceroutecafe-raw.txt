@@ -1,0 +1,281 @@
+https://www.ultratools.com/tools/traceRouteResult
+
+// Youtube
+
+Hop number: 1Connected to: assc-ultrafw-vlan2598.dc10.neustar.com ( 10.176.98.1 ) Roundtrip times:  2.65 ms
+2.539 ms
+2.485 ms
+Hop number: 2Connected to: ashlfnsw02-vlan102.dc10.neustar.com ( 10.176.2.3 ) Roundtrip times:  2.673 ms
+2.635 ms
+2.581 ms
+Hop number: 3Roundtrip times:  Timed out. Hop number: 4Connected to: ashihnrtr01-vlan502.dc10.neustar.com ( 156.154.196.2 ) Roundtrip times:  4.646 ms
+4.624 ms
+4.574 ms
+Country: united statesHop number: 5Connected to: et-0-0-43-3.cr2-was1.ip4.gtt.net ( 173.205.39.229 ) Roundtrip times:  4.526 ms
+4.474 ms
+4.426 ms
+Country: germanyHop number: 6Connected to: et-0-0-69.cr3-was1.ip4.gtt.net ( 89.149.139.34 ) Roundtrip times:  6.207 ms
+10.11 ms
+10.033 ms
+Country: irelandHop number: 7Connected to: as15169.cr3-was1.ip4.gtt.net ( 69.174.23.134 ) Roundtrip times:  6.382 ms
+4.063 ms
+4.03 ms
+Country: united statesHop number: 8Connected to: 108.170.246.2 ( 108.170.246.2 ) Roundtrip times:  4.072 ms
+4.385 ms
+3.862 ms
+Country: united statesHop number: 9Connected to: 72.14.236.229 ( 72.14.236.229 ) Roundtrip times:  8.591 ms
+4.113 ms
+5.262 ms
+Country: united statesHop number: 10Connected to: 108.177.3.52 ( 108.177.3.52 ) Roundtrip times:  22.689 ms
+22.507 ms
+21.619 ms
+Country: united statesHop number: 11Connected to: 209.85.254.128 ( 209.85.254.128 ) Roundtrip times:  21.174 ms
+20.924 ms
+20.877 ms
+Country: united statesHop number: 12Connected to: 108.170.248.1 ( 108.170.248.1 ) Roundtrip times:  23.27 ms
+23.113 ms
+23.072 ms
+Country: united statesHop number: 13Connected to: 108.170.237.205 ( 108.170.237.205 ) Roundtrip times:  19.875 ms
+19.378 ms
+20.312 ms
+Country: united statesHop number: 14Connected to: lga25s54-in-f14.1e100.net ( 172.217.6.206 ) Roundtrip times:  19.068 ms
+19.462 ms
+19.114 ms
+Country: united states
+
+// Netflix
+
+Hop number: 1Connected to: assc-ultrafw-vlan2598.dc10.neustar.com ( 10.176.98.1 ) Roundtrip times:  2.599 ms
+2.472 ms
+2.414 ms
+Hop number: 2Connected to: ashlfnsw02-vlan102.dc10.neustar.com ( 10.176.2.3 ) Roundtrip times:  2.65 ms
+2.605 ms
+2.55 ms
+Hop number: 3Roundtrip times:  Timed out. Hop number: 4Connected to: ashihnrtr01-vlan502.dc10.neustar.com ( 156.154.196.2 ) Roundtrip times:  4.773 ms
+4.711 ms
+4.651 ms
+Country: united statesHop number: 5Connected to: et-0-0-43-3.cr2-was1.ip4.gtt.net ( 173.205.39.229 ) Roundtrip times:  5.075 ms
+5.027 ms
+4.952 ms
+Country: germanyHop number: 6Connected to: ip4.gtt.net ( 173.205.42.6 ) Roundtrip times:  6.338 ms
+4.701 ms
+4.513 ms
+Country: united statesHop number: 7Connected to: 54.239.108.76 ( 54.239.108.76 ) Roundtrip times:  23.19 ms
+2.405 ms
+32.102 ms
+Country: united statesHop number: 8Connected to: 54.239.110.150 ( 54.239.110.150 ) Roundtrip times:  5.829 ms
+5.807 ms
+5.733 ms
+Country: united statesHop number: 9Connected to: 54.239.110.187 ( 54.239.110.187 ) Roundtrip times:  18.086 ms
+32.679 ms
+8.132 ms
+Country: united statesHop number: 10Connected to: 52.93.26.36 ( 52.93.26.36 ) Roundtrip times:  6.647 ms
+6.59 ms
+4.272 ms
+Country: germanyHop number: 11Connected to: 52.93.24.10 ( 52.93.24.10 ) Roundtrip times:  6.591 ms
+6.656 ms
+6.399 ms
+Country: germanyHop number: 12Connected to: 205.251.244.85 ( 205.251.244.85 ) Roundtrip times:  3.095 ms
+4.482 ms
+6.993 ms
+Country: united statesHop number: 13Roundtrip times:  Timed out. Hop number: 14Roundtrip times:  Timed out. Hop number: 15Roundtrip times:  Timed out. Hop number: 16Roundtrip times:  Timed out. Hop number: 17Roundtrip times:  Timed out. Hop number: 18Roundtrip times:  Timed out. Hop number: 19Roundtrip times:  Timed out. Hop number: 20Roundtrip times:  Timed out. Hop number: 21Roundtrip times:  Timed out. Hop number: 22Roundtrip times:  Timed out. Hop number: 23Roundtrip times:  Timed out. Hop number: 24Roundtrip times:  Timed out. Hop number: 25Roundtrip times:  Timed out. Hop number: 26Roundtrip times:  Timed out. Hop number: 27Roundtrip times:  Timed out. Hop number: 28Roundtrip times:  Timed out. Hop number: 29Roundtrip times:  Timed out. Hop number: 30Roundtrip times:  Timed out. Hop number: 31Roundtrip times:  Timed out. Hop number: 32Roundtrip times:  Timed out. Hop number: 33Roundtrip times:  Timed out. Hop number: 34Roundtrip times:  Timed out. Hop number: 35Roundtrip times:  Timed out. Hop number: 36Roundtrip times:  Timed out. Hop number: 37Roundtrip times:  Timed out. Hop number: 38Roundtrip times:  Timed out. Hop number: 39Roundtrip times:  Timed out. Hop number: 40Roundtrip times:  Timed out. Hop number: 41Roundtrip times:  Timed out. Hop number: 42Roundtrip times:  Timed out. Hop number: 43Roundtrip times:  Timed out. Hop number: 44Roundtrip times:  Timed out. Hop number: 45Roundtrip times:  Timed out. Hop number: 46Roundtrip times:  Timed out. Hop number: 47Roundtrip times:  Timed out. Hop number: 48Roundtrip times:  Timed out. Hop number: 49Roundtrip times:  Timed out. Hop number: 50Roundtrip times:  Timed out.
+
+
+// Hulu
+Hop number: 1Connected to: assc-ultrafw-vlan2598.dc10.neustar.com ( 10.176.98.1 ) Roundtrip times:  2.776 ms
+2.675 ms
+2.73 ms
+Hop number: 2Connected to: ashlfnsw02-vlan102.dc10.neustar.com ( 10.176.2.3 ) Roundtrip times:  2.951 ms
+2.945 ms
+2.899 ms
+Hop number: 3Roundtrip times:  Timed out. Hop number: 4Connected to: ashihnrtr01-vlan502.dc10.neustar.com ( 156.154.196.2 ) Roundtrip times:  70.137 ms
+70.185 ms
+70.16 ms
+Country: united statesHop number: 5Connected to: et-0-0-43-3.cr2-was1.ip4.gtt.net ( 173.205.39.229 ) Roundtrip times:  70.14 ms
+70.083 ms
+70.024 ms
+Country: germanyHop number: 6Connected to: et-0-0-68.cr3-was1.ip4.gtt.net ( 89.149.139.30 ) Roundtrip times:  69.98 ms
+68.082 ms
+67.966 ms
+Country: irelandHop number: 7Connected to: as2828.was14.ip4.gtt.net ( 173.205.55.118 ) Roundtrip times:  67.975 ms
+68.067 ms
+68.062 ms
+Country: united statesHop number: 8Connected to: 207.88.14.190.ptr.us.xo.net ( 207.88.14.190 ) Roundtrip times:  124.684 ms
+124.758 ms
+124.679 ms
+Country: united statesHop number: 9Connected to: 207.88.12.215.ptr.us.xo.net ( 207.88.12.215 ) Roundtrip times:  123.621 ms
+123.53 ms
+123.52 ms
+Country: united statesHop number: 10Connected to: 207.88.12.216.ptr.us.xo.net ( 207.88.12.216 ) Roundtrip times:  124.473 ms
+124.41 ms
+124.574 ms
+Country: united statesHop number: 11Connected to: 207.88.12.208.ptr.us.xo.net ( 207.88.12.208 ) Roundtrip times:  123.475 ms
+123.429 ms
+122.52 ms
+Country: united statesHop number: 12Connected to: te0-11-4-0.rar3.sanjose-ca.us.xo.net ( 207.88.12.181 ) Roundtrip times:  122.424 ms
+131.13 ms
+122.311 ms
+Country: united statesHop number: 13Connected to: 207.88.13.11.ptr.us.xo.net ( 207.88.13.11 ) Roundtrip times:  122.312 ms
+122.275 ms
+122.425 ms
+Country: united statesHop number: 14Roundtrip times:  Timed out. Hop number: 15Roundtrip times:  Timed out. Hop number: 16Roundtrip times:  Timed out. Hop number: 17Roundtrip times:  Timed out. Hop number: 18Roundtrip times:  Timed out. Hop number: 19Roundtrip times:  Timed out. Hop number: 20Roundtrip times:  Timed out. Hop number: 21Roundtrip times:  Timed out. Hop number: 22Roundtrip times:  Timed out. Hop number: 23Roundtrip times:  Timed out. Hop number: 24Roundtrip times:  Timed out. Hop number: 25Roundtrip times:  Timed out. Hop number: 26Roundtrip times:  Timed out. Hop number: 27Roundtrip times:  Timed out. Hop number: 28Roundtrip times:  Timed out. Hop number: 29Roundtrip times:  Timed out. Hop number: 30Roundtrip times:  Timed out. Hop number: 31Roundtrip times:  Timed out. Hop number: 32Roundtrip times:  Timed out. Hop number: 33Roundtrip times:  Timed out. Hop number: 34Roundtrip times:  Timed out. Hop number: 35Roundtrip times:  Timed out. Hop number: 36Roundtrip times:  Timed out. Hop number: 37Roundtrip times:  Timed out. Hop number: 38Roundtrip times:  Timed out. Hop number: 39Roundtrip times:  Timed out. Hop number: 40Roundtrip times:  Timed out. Hop number: 41Roundtrip times:  Timed out. Hop number: 42Roundtrip times:  Timed out. Hop number: 43Roundtrip times:  Timed out. Hop number: 44Roundtrip times:  Timed out. Hop number: 45Roundtrip times:  Timed out. Hop number: 46Roundtrip times:  Timed out. Hop number: 47Roundtrip times:  Timed out. Hop number: 48Roundtrip times:  Timed out. Hop number: 49Roundtrip times:  Timed out. Hop number: 50Roundtrip times:  Timed out.
+
+// Vimeo
+Hop number: 1Connected to: assc-ultrafw-vlan2598.dc10.neustar.com ( 10.176.98.1 ) Roundtrip times:  2.727 ms
+2.607 ms
+2.531 ms
+Hop number: 2Connected to: ashlfnsw02-vlan102.dc10.neustar.com ( 10.176.2.3 ) Roundtrip times:  2.735 ms
+2.7 ms
+2.65 ms
+Hop number: 3Roundtrip times:  Timed out. Hop number: 4Connected to: ashihnrtr01-vlan502.dc10.neustar.com ( 156.154.196.2 ) Roundtrip times:  5.32 ms
+5.282 ms
+5.248 ms
+Country: united statesHop number: 5Connected to: et-0-0-43-3.cr2-was1.ip4.gtt.net ( 173.205.39.229 ) Roundtrip times:  4.773 ms
+4.761 ms
+4.726 ms
+Country: germanyHop number: 6Connected to: as3356.was10.ip4.gtt.net ( 173.205.53.254 ) Roundtrip times:  595.263 ms
+589.743 ms
+589.979 ms
+Country: united statesHop number: 7Roundtrip times:  Timed out. Hop number: 8Roundtrip times:  Timed out. Hop number: 9Roundtrip times:  Timed out. Hop number: 10Roundtrip times:  Timed out. Hop number: 11Roundtrip times:  Timed out. Hop number: 12Roundtrip times:  Timed out. Hop number: 13Roundtrip times:  Timed out. Hop number: 14Roundtrip times:  Timed out. Hop number: 15Roundtrip times:  Timed out. Hop number: 16Roundtrip times:  Timed out. Hop number: 17Roundtrip times:  Timed out. Hop number: 18Roundtrip times:  Timed out. Hop number: 19Roundtrip times:  Timed out. Hop number: 20Roundtrip times:  Timed out. Hop number: 21Roundtrip times:  Timed out. Hop number: 22Roundtrip times:  Timed out. Hop number: 23Roundtrip times:  Timed out. Hop number: 24Roundtrip times:  Timed out. Hop number: 25Roundtrip times:  Timed out. Hop number: 26Roundtrip times:  Timed out. Hop number: 27Roundtrip times:  Timed out. Hop number: 28Roundtrip times:  Timed out. Hop number: 29Roundtrip times:  Timed out. Hop number: 30Roundtrip times:  Timed out. Hop number: 31Roundtrip times:  Timed out. Hop number: 32Roundtrip times:  Timed out. Hop number: 33Roundtrip times:  Timed out. Hop number: 34Roundtrip times:  Timed out. Hop number: 35Roundtrip times:  Timed out. Hop number: 36Roundtrip times:  Timed out. Hop number: 37Roundtrip times:  Timed out. Hop number: 38Roundtrip times:  Timed out. Hop number: 39Roundtrip times:  Timed out. Hop number: 40Roundtrip times:  Timed out. Hop number: 41Roundtrip times:  Timed out. Hop number: 42Roundtrip times:  Timed out. Hop number: 43Roundtrip times:  Timed out. Hop number: 44Roundtrip times:  Timed out. Hop number: 45Roundtrip times:  Timed out. Hop number: 46Roundtrip times:  Timed out. Hop number: 47Roundtrip times:  Timed out. Hop number: 48Roundtrip times:  Timed out. Hop number: 49Roundtrip times:  Timed out. Hop number: 50Roundtrip times:  Timed out.
+
+
+--------
+--------
+
+// Youtube
+
+Vidias-MacBook-Pro:~ vidianindhita$ traceroute youtube.com
+traceroute to youtube.com (172.217.7.174), 64 hops max, 52 byte packets
+ 1  * * *
+ 2  192.168.1.1 (192.168.1.1)  1.252 ms  1.379 ms  1.197 ms
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+^C
+
+// Google
+
+Vidias-MacBook-Pro:~ vidianindhita$ traceroute google.com
+traceroute to google.com (172.217.10.78), 64 hops max, 52 byte packets
+ 1  * * *
+ 2  192.168.1.1 (192.168.1.1)  2.160 ms  1.476 ms  1.728 ms
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * *^C
+
+// Netflix
+Vidias-MacBook-Pro:~ vidianindhita$ traceroute netflix.com
+traceroute: Warning: netflix.com has multiple addresses; using 34.234.59.120
+traceroute to netflix.com (34.234.59.120), 64 hops max, 52 byte packets
+ 1  * * *
+ 2  192.168.1.1 (192.168.1.1)  1.719 ms  1.952 ms  1.644 ms
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+
+// Hulu
+Vidias-MacBook-Pro:~ vidianindhita$ traceroute hulu.com
+traceroute to hulu.com (23.39.25.103), 64 hops max, 52 byte packets
+ 1  * * *
+ 2  192.168.1.1 (192.168.1.1)  2.952 ms  3.781 ms  2.810 ms
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * *^C
+
+// Vimeo
+Vidias-MacBook-Pro:~ vidianindhita$ traceroute vimeo.com
+traceroute: Warning: vimeo.com has multiple addresses; using 151.101.0.217
+traceroute to vimeo.com (151.101.0.217), 64 hops max, 52 byte packets
+ 1  * * *
+ 2  192.168.1.1 (192.168.1.1)  3.116 ms  2.085 ms  1.861 ms
+ 3  * * *
+
+
+ ---------------------
+ ---------------------
+ PING
+ ---------------------
+ ---------------------
+
+Vidias-MacBook-Pro:~ vidianindhita$ ping youtube.com
+PING youtube.com (172.217.12.174): 56 data bytes
+64 bytes from 172.217.12.174: icmp_seq=0 ttl=55 time=10.974 ms
+Request timeout for icmp_seq 1
+Request timeout for icmp_seq 2
+64 bytes from 172.217.12.174: icmp_seq=3 ttl=55 time=11.704 ms
+64 bytes from 172.217.12.174: icmp_seq=4 ttl=55 time=11.647 ms
+Request timeout for icmp_seq 5
+64 bytes from 172.217.12.174: icmp_seq=6 ttl=55 time=14.877 ms
+64 bytes from 172.217.12.174: icmp_seq=7 ttl=55 time=12.111 ms
+64 bytes from 172.217.12.174: icmp_seq=8 ttl=55 time=11.504 ms
+Request timeout for icmp_seq 9
+64 bytes from 172.217.12.174: icmp_seq=10 ttl=55 time=19.647 ms
+64 bytes from 172.217.12.174: icmp_seq=11 ttl=55 time=10.057 ms
+Request timeout for icmp_seq 12
+Request timeout for icmp_seq 13
+Request timeout for icmp_seq 14
+Request timeout for icmp_seq 15
+Request timeout for icmp_seq 16
+Request timeout for icmp_seq 17
+Request timeout for icmp_seq 18
+64 bytes from 172.217.12.174: icmp_seq=19 ttl=55 time=51.497 ms
+Request timeout for icmp_seq 20
+64 bytes from 172.217.12.174: icmp_seq=21 ttl=55 time=15.496 ms
+64 bytes from 172.217.12.174: icmp_seq=22 ttl=55 time=14.232 ms
+64 bytes from 172.217.12.174: icmp_seq=23 ttl=55 time=13.828 ms
+64 bytes from 172.217.12.174: icmp_seq=24 ttl=55 time=13.784 ms
+64 bytes from 172.217.12.174: icmp_seq=25 ttl=55 time=11.139 ms
+64 bytes from 172.217.12.174: icmp_seq=26 ttl=55 time=14.708 ms
+64 bytes from 172.217.12.174: icmp_seq=27 ttl=55 time=11.123 ms
+64 bytes from 172.217.12.174: icmp_seq=28 ttl=55 time=12.108 ms
+64 bytes from 172.217.12.174: icmp_seq=29 ttl=55 time=14.324 ms
+64 bytes from 172.217.12.174: icmp_seq=30 ttl=55 time=11.025 ms
+64 bytes from 172.217.12.174: icmp_seq=31 ttl=55 time=11.609 ms
+64 bytes from 172.217.12.174: icmp_seq=32 ttl=55 time=15.395 ms
+64 bytes from 172.217.12.174: icmp_seq=33 ttl=55 time=11.802 ms
+64 bytes from 172.217.12.174: icmp_seq=34 ttl=55 time=13.434 ms
+64 bytes from 172.217.12.174: icmp_seq=35 ttl=55 time=14.357 ms
+Request timeout for icmp_seq 36
+Request timeout for icmp_seq 37
+64 bytes from 172.217.12.174: icmp_seq=38 ttl=55 time=12.182 ms
+64 bytes from 172.217.12.174: icmp_seq=39 ttl=55 time=11.848 ms
+64 bytes from 172.217.12.174: icmp_seq=40 ttl=55 time=11.006 ms
+^C
+--- youtube.com ping statistics ---
+42 packets transmitted, 27 packets received, 35.7% packet loss
+round-trip min/avg/max/stddev = 10.057/14.349/51.497/7.558 ms

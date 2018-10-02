@@ -245,5 +245,14 @@ span {
 }
 
 #end {
-  background-color: #ff0000;
+  background-color: #840000;
+  color: #ffffff;
+}
+#end-cafe {
+  background-color: #000972;
+  color: #ffffff;
+}
+#end-itp {
+  background-color: #006d09;
+  color: #ffffff;
 }

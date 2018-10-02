@@ -1,0 +1,42 @@
+Site;Access Location;IP;Hostname;City;Region;Country;Latitude;Longitude;Company;Domain;Route;Type;Flag
+Youtube;Cafe;10.176.98.1;assc-ultrafw-vlan2598.dc10.neustar.com;;;;40.728331;-73.995277;Private;;;;
+Youtube;Cafe;10.176.2.3;ashlfnsw02-vlan102.dc10.neustar.com;;;;40.728331;-73.995277;Private;;;;
+Youtube;Cafe;156.154.196.2;ashihnrtr01-vlan502.dc10.neustar.com;;;US;37.7510;-97.8220;NeuStar, Inc.;;;;
+Youtube;Cafe;173.205.39.229;et-0-0-43-3.cr2-was1.ip4.gtt.net;Buffalo;New York;US;42.8854;-78.7503;Hibernia Networks (Netherlands) BV;;;;
+Youtube;Cafe;89.149.139.34;et-0-0-69.cr3-was1.ip4.gtt.net;;;IE;53.3472;-6.2439;Hibernia Networks (Netherlands) BV;;;;
+Youtube;Cafe;69.174.23.134;as15169.cr3-was1.ip4.gtt.net;;;DE;51.2993;9.4910;Hibernia Networks (Netherlands) BV;;;;
+Youtube;Cafe;108.170.246.2;108.170.246.2;;;US;37.7510;-97.8220;Google LLC;;;;
+Youtube;Cafe;72.14.236.229;72.14.236.229;;;US;37.7510;-97.8220;Google LLC;;;;
+Youtube;Cafe;108.177.3.52;108.177.3.52;;;US;37.7510;-97.8220;Google LLC;;;;
+Youtube;Cafe;209.85.254.128;209.85.254.128;;;US;37.7510;-97.8220;Google LLC;;;;
+Youtube;Cafe;108.170.248.1;108.170.248.1;;;US;37.7510;-97.8220;Google LLC;;;;
+Youtube;Cafe;108.170.237.205;108.170.237.205;;;US;37.7510;-97.8220;Google LLC;;;;
+Youtube;Cafe;172.217.6.206;lga25s54-in-f14.1e100.net;;;US;37.7510;-97.8220;Google LLC;;;;
+Netflix;Cafe;10.176.98.1;assc-ultrafw-vlan2598.dc10.neustar.com;;;;40.728331;-73.995277;Private;;;;
+Netflix;Cafe;10.176.2.3;ashlfnsw02-vlan102.dc10.neustar.com;;;;40.728331;-73.995277;Private;;;;
+Netflix;Cafe;156.154.196.2;ashihnrtr01-vlan502.dc10.neustar.com;;;US;37.7510;-97.8220;NeuStar, Inc.;;;;
+Netflix;Cafe;173.205.39.229;et-0-0-43-3.cr2-was1.ip4.gtt.net;Buffalo;New York;US;42.8854;-78.7503;Hibernia Networks (Netherlands) BV;;;;
+Netflix;Cafe;173.205.42.6;ip4.gtt.net;Bellerose;New York;US;40.7386;-73.7224;Hibernia Networks (Netherlands) BV;;;;
+Netflix;Cafe;54.239.108.76;54.239.108.76;Ashburn;Virginia;US;39.0481;-77.4728;Amazon.com, Inc.;;;;
+Netflix;Cafe;54.239.110.150;54.239.110.150;Ashburn;Virginia;US;39.0481;-77.4728;Amazon.com, Inc.;;;;
+Netflix;Cafe;54.239.110.187;54.239.110.187;Ashburn;Virginia;US;39.0481;-77.4728;Amazon.com, Inc.;;;;
+Netflix;Cafe;52.93.26.36;52.93.26.36;Seattle;Washington;US;47.6344;-122.3420;Amazon.com, Inc.;;;;
+Netflix;Cafe;52.93.24.10;52.93.24.10;Seattle;Washington;US;47.6344;-122.3420;Amazon.com, Inc.;;;;
+Netflix;Cafe;205.251.244.85;205.251.244.85;Ashburn;Virginia;US;39.0481;-77.4728;Amazon.com, Inc.;;;;Timeout
+Hulu;Cafe;10.176.98.1;assc-ultrafw-vlan2598.dc10.neustar.com;;;;40.728331;-73.995277;Private;;;;
+Hulu;Cafe;10.176.2.3;ashlfnsw02-vlan102.dc10.neustar.com;;;;40.728331;-73.995277;Private;;;;
+Hulu;Cafe;156.154.196.2;ashihnrtr01-vlan502.dc10.neustar.com;;;US;37.7510;-97.8220;NeuStar, Inc.;;;;
+Hulu;Cafe;173.205.39.229;et-0-0-43-3.cr2-was1.ip4.gtt.net;Buffalo;New York;US;42.8854;-78.7503;Hibernia Networks (Netherlands) BV;;;;
+Hulu;Cafe;89.149.139.30;et-0-0-68.cr3-was1.ip4.gtt.net;;;IE;53.3472;-6.2439;Hibernia Networks (Netherlands) BV;;;;
+Hulu;Cafe;173.205.55.118;as2828.was14.ip4.gtt.net;;;US;37.7510;-97.8220;Hibernia Networks (Netherlands) BV;;;;
+Hulu;Cafe;207.88.14.190;207.88.14.190.ptr.us.xo.net;;;US;37.7510;-97.8220;MCI Communications Services, Inc. d/b/a Verizon Business;;;;
+Hulu;Cafe;207.88.12.215;207.88.12.215.ptr.us.xo.net;;;US;37.7510;-97.8220;MCI Communications Services, Inc. d/b/a Verizon Business;;;;
+Hulu;Cafe;207.88.12.216;207.88.12.216.ptr.us.xo.net;;;US;37.7510;-97.8220;MCI Communications Services, Inc. d/b/a Verizon Business;;;;
+Hulu;Cafe;207.88.12.208;207.88.12.208.ptr.us.xo.net;;;US;37.7510;-97.8220;MCI Communications Services, Inc. d/b/a Verizon Business;;;;
+Hulu;Cafe;207.88.12.181;te0-11-4-0.rar3.sanjose-ca.us.xo.net;;;US;37.7510;-97.8220;MCI Communications Services, Inc. d/b/a Verizon Business;;;;
+Hulu;Cafe;207.88.13.11;207.88.13.11.ptr.us.xo.net;;;US;37.7510;-97.8220;MCI Communications Services, Inc. d/b/a Verizon Business;;;;Timeout
+Vimeo;Cafe;10.176.98.1;assc-ultrafw-vlan2598.dc10.neustar.com;;;;40.728331;-73.995277;Private;;;;
+Vimeo;Cafe;10.176.2.3;ashlfnsw02-vlan102.dc10.neustar.com;;;;40.728331;-73.995277;Private;;;;
+Vimeo;Cafe;156.154.196.2;ashihnrtr01-vlan502.dc10.neustar.com;;;US;37.7510;-97.8220;NeuStar, Inc.;;;;
+Vimeo;Cafe;173.205.39.229;et-0-0-43-3.cr2-was1.ip4.gtt.net;Buffalo;New York;US;42.8854;-78.7503;Hibernia Networks (Netherlands) BV;;;;
+Vimeo;Cafe;173.205.53.254;as3356.was10.ip4.gtt.net;;;US;37.7510;-97.8220;Hibernia Networks (Netherlands) BV;;;;
